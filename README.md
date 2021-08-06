@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://Ludens509.github.io/My-team-page-master/">
+    <a href="https://trusting-almeida-feeea8.netlify.app/">
       Demo
     </a>
     <span> | </span>
