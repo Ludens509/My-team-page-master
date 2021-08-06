@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My team page}</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ludens509.github.io/My-team-page-master/">
       Demo
     </a>
     <span> | </span>
@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-- [Overview](https://imgur.com/pqMknUV)
+- [Overview](https://imgur.com/pqMknUV.jpg)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
