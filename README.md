@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-- [Overview](https://i.imgur.com/pqMknUV.png?1g)
+- [Overview](https://i.imgur.com/pqMknUV.png)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
