@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ludens509.github.io/My-team-page-master/">
+    <a href="https://Ludens509.github.io/My-team-page-master/">
       Demo
     </a>
     <span> | </span>
@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-- [Overview](https://i.imgur.com/pqMknUV.png?1)
+- [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://i.imgur.com/pqMknUV.png?1)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
